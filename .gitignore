@@ -1,0 +1,6 @@
+build/
+backend/backend
+__pycache__/
+*.pyc
+logs/*.log
+.vscode/
